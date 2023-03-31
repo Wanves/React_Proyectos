@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ad2855f.css",
+    "main.js": "/static/js/main.35df28f3.js",
+    "static/media/tomRaider.jpg": "/static/media/tomRaider.507feb578d39e7be310b.jpg",
+    "static/media/ilustracion-atardecer-en-el-bosque_1920x1080_xtrafondos.com.jpg": "/static/media/ilustracion-atardecer-en-el-bosque_1920x1080_xtrafondos.com.68faef1700cf93680085.jpg",
+    "index.html": "/index.html",
+    "main.1ad2855f.css.map": "/static/css/main.1ad2855f.css.map",
+    "main.35df28f3.js.map": "/static/js/main.35df28f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad2855f.css",
+    "static/js/main.35df28f3.js"
+  ]
+}
