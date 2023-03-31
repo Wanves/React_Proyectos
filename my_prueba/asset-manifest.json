@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.da4e579b.css",
+    "main.js": "./static/js/main.7e8149dd.js",
+    "static/media/chica-anime-lofi_1920x1080_xtrafondos.com.jpg": "./static/media/chica-anime-lofi_1920x1080_xtrafondos.com.71a4a6572d797cbdf591.jpg",
+    "index.html": "./index.html",
+    "main.da4e579b.css.map": "./static/css/main.da4e579b.css.map",
+    "main.7e8149dd.js.map": "./static/js/main.7e8149dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da4e579b.css",
+    "static/js/main.7e8149dd.js"
+  ]
+}
